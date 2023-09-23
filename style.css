@@ -1,13 +1,21 @@
 * {
-    color: white;
+    color: #374151;
     font-weight: bold;
 }
 
 body {
-    background-color: black;
+    background-color: #FFFFFF;
+}
+
+h1{
+    color: #2F3542;
 }
 
 p {
     font-size: small;
+}
+
+a{
+    color: #1E40AF;
 }
 
