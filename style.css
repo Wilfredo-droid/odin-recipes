@@ -7,8 +7,8 @@ body {
     background-color: #FFFFFF;
 }
 
-h1{
-    color: #2F3542;
+h1, h2{
+    color: black;
 }
 
 p {
@@ -19,4 +19,7 @@ a{
     color: #1E40AF;
 }
 
+.main{
+    margin: 0 30%;
+}
 
